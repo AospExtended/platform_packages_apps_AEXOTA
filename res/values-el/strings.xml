@@ -30,7 +30,7 @@
   <string name="download">Λήψη</string>
   <string name="install">Εγκατάσταση</string>
   <string name="downloading">Πραγματοποιείται λήψη...</string>
-  <string name="rebooting">Πραγματοποιείται επανεκκίνηση...</string>
+  <string name="rebooting">Επανεκκίνηση&#8230;</string>
   <string name="information">Πληροφορίες</string>
   <string name="update_available">Είναι διαθέσιμη μια ενημερωμένη έκδοση της ROM</string>
   <string name="ignore">Παράλειψη</string>

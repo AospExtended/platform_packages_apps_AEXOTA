@@ -27,14 +27,14 @@
   <string name="help">Pomoc</string>
   <string name="loading">Wczytywanie&#8230;</string>
   <string name="filename_separator">-</string>
-  <string name="download">Pobieranie</string>
+  <string name="download">Pobierz</string>
   <string name="install">Instaluj</string>
   <string name="downloading">Pobieranie&#8230;</string>
   <string name="rebooting">Ponowne uruchomienie&#8230;</string>
   <string name="information">Informacje</string>
-  <string name="update_available">Dostępna aktualizacja ROM-u</string>
+  <string name="update_available">Dostępna aktualizacja systemu</string>
   <string name="ignore">Ignoruj</string>
-  <string name="donate">Wesprzyj</string>
+  <string name="donate">Dotacja</string>
   <string name="finished">Zakończono</string>
   <string name="settings">Ustawienia</string>
   <string name="done">Gotowe</string>

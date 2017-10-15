@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">취소</string>
   <string name="ok">확인</string>
+  <string name="delete">삭제</string>
+  <string name="back">뒤로가기</string>
+  <string name="help">도움말</string>
+  <string name="loading">불러오는 중...</string>
+  <string name="filename_separator">-</string>
+  <string name="download">다운로드</string>
+  <string name="install">설치</string>
+  <string name="downloading">다운로드 중...</string>
+  <string name="rebooting">재시작 중...</string>
+  <string name="information">정보</string>
+  <string name="update_available">업데이트 사용 가능</string>
+  <string name="ignore">무시</string>
+  <string name="donate">후원하기</string>
+  <string name="finished">완료</string>
+  <string name="settings">설정</string>
+  <string name="done">완료</string>
+  <string name="delete_confirm">정말 이 파일을 삭제하시겠습니까?</string>
 </resources>

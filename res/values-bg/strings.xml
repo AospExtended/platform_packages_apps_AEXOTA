@@ -21,6 +21,7 @@
   <!-- App Strings -->
   <!-- Generic strings -->
   <string name="cancel">Отказ</string>
+  <string name="ok">Да</string>
   <string name="delete">Изтриване</string>
   <string name="back">Назад</string>
   <string name="help">Помощ</string>

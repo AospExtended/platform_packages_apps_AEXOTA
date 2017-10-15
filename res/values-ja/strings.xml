@@ -25,6 +25,18 @@
   <string name="delete">削除</string>
   <string name="back">戻る</string>
   <string name="help">ヘルプ</string>
+  <string name="loading">読み込み中&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">ダウンロード</string>
+  <string name="install">インストール</string>
+  <string name="downloading">ダウンロード中&#8230;</string>
+  <string name="rebooting">再起動中&#8230;</string>
+  <string name="information">情報</string>
+  <string name="update_available">ROMの更新があります</string>
+  <string name="ignore">無視</string>
+  <string name="donate">寄付</string>
+  <string name="finished">完了しました</string>
   <string name="settings">設定</string>
   <string name="done">完了</string>
+  <string name="delete_confirm">本当にこのファイルを削除しますか?</string>
 </resources>
